@@ -1,0 +1,394 @@
+ @media screen and (max-width: 1200px) {
+ 
+ .head-button-buy{
+    width: 40%;
+    margin: 10px auto;
+}
+
+.flex-container-content {
+    width: 66%;
+    margin: auto;
+    height: 600px;
+}
+
+.flex-container-content-3 {
+    padding: 10%;
+    display: block; 
+}
+
+.slick {
+     margin: auto;
+     width: 100%;
+}
+
+.flex-element-3-right-3{
+     width: 160%;
+}
+
+.flex-element-3-right-4 {
+     padding-left: 0%;
+}
+
+.c {
+	max-width: 200px;
+}
+
+content-6 {
+    display: block;
+}
+
+.slider-2 > .slick-next::before, .center > .slick-next::before {
+    line-height: 8;
+    font-size: 30px;
+    margin-left: -140px;
+}
+
+.slider-2 > .slick-prev::before, .center > .slick-prev::before {
+     font-size: 30px;
+     margin-left: 120px;
+     line-height: 8;
+}
+}
+
+
+
+
+ @media screen and (max-width: 900px) {
+
+.flex-container-menu {
+	display: contents;
+}
+
+.flex-element head-button {
+    display: none;
+}
+
+nav { 
+	display: none;
+    width: 150px;
+    margin-top: 10px;
+}
+
+nav:hover {
+display: block;
+}
+
+header > div > .flex-container-head > img {
+	margin-top: 14px;
+    display: block;
+    padding: 0px 15px 15px 0px;   
+}
+
+header > div > .flex-container-head > img:hover {
+	padding-right: 20px;
+}
+
+
+header > div > .flex-container-head > img:hover ~ nav {
+   display: block;        
+}
+    
+.sub {
+	padding-left: 2px;
+}
+
+.flex-element head-button {
+    display: contents;
+}
+
+h1 {
+    font-family: 'Proxima Nova Semibold';
+    margin-top: 50px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.flex-container-content {
+    width: 33%;
+    margin: auto;
+    height: 1200px;
+}
+
+.flex-element-content{
+  min-width: 250px;
+}
+
+.flex-container-content-3-left-top img {
+	height: auto;
+}
+
+.flex-container-content-3-left img {
+	width: 95%;
+	height: auto;
+}
+
+.flex-element-4-4-right {
+    width: 125px;
+}
+
+.flex-container-content-4 h2 {
+   font-size: 24px;
+}
+
+.flex-container-content-5 {
+	 height: 1350px;
+     padding-top: 0px;
+}
+
+.flex-container-content-5-c5 {
+    width: 50%;
+}
+
+.flex-container-content-5-c3 {
+    margin-bottom: 0px;
+	margin-left: -210px;
+}
+
+.flex-container-content-5-c4 {
+	    margin-bottom: -60px;
+}
+
+.flex-container-content-5-1 {
+	flex-wrap: wrap;
+}
+
+.flex-container-content-5-c1 {
+    padding-bottom: 30px;
+    width: 58%;
+    text-align: center;
+    padding-right: 6.5%;
+    padding-top: 0px;
+}
+
+p-1 {
+	display: inline;
+    padding-left: 5px;;
+}
+
+.slider-2 > .slick-next::before, .center > .slick-next::before {
+    line-height: 5;
+    font-size: 24px;
+    margin-left: -40px;
+}
+
+.slider-2 > .slick-prev::before, .center > .slick-prev::before {
+    font-size: 24px;
+    margin-left: 40px;
+    line-height: 5;
+}
+
+.slider-3 > .slick-next::before, .center > .slick-next::before {
+    line-height: 10;
+    font-size: 40px;
+ }
+
+.slider-3 > .slick-prev::before, .center > .slick-prev::before {   
+    font-size: 40px;  
+    margin-left: 350px;
+    line-height: 10;
+}
+
+.flex-container-content-8 {
+    height: 920px;
+}
+
+.flex-container-content-8a {
+    padding: 0px 12%;
+    justify-content: center;
+    display: flex;
+    width: 340px;
+    flex-wrap: wrap;
+}
+
+.flex-element-8b {
+	display: inline-grid;
+    height: 791px;
+    justify-content: flex-start;
+    margin: 28px 22.3% 0px -40%;  
+}
+
+.hr-line {
+     display: none;
+}
+
+.flex-element-8m {
+    display: inline;
+    position: absolute;
+    margin-left: -39.8%;
+    margin-top: 35px;
+    padding-bottom: -1px;
+}
+
+.flex-container-content-9 {
+    height: 1000px;    
+}
+
+.flex-element-9 {
+	max-width: 100%;
+}
+
+.flex-container-content-9a {
+    padding: 0px 22%;
+    display: block;
+}
+
+.flex-container-content-10c {
+	 margin: auto;
+}  
+
+.flex-element-footer-logo {
+    margin-right: 20%;
+}
+}
+
+
+ @media screen and (max-width: 600px) {
+
+ .flex-container-header {
+    margin-top: 200px;
+}
+
+.header-button {
+    margin-top: -10px;
+}
+	
+.flex-container-content-3-right {
+	flex-wrap: wrap;
+	display: flex;
+    width: 40%;
+}
+
+.flex-element-3-right-3 img {
+    padding-left: 0px;
+}
+
+.flex-element-3-right-4 img {
+    padding-left: 0px;
+}
+
+.flex-element-3-right-4 {
+	margin-top: 0px;
+}
+
+.flex-container-content-3-right {
+	margin: auto;
+}
+
+.flex-element-3-right-3 {
+    width: 97%;
+}
+
+.slider-for-img{
+    width: 300px;
+}
+
+.slider-nav > .slick-next::before, .center > .slick-next::before {
+   line-height: 8;
+    font-size: 30px;
+    color: grey;
+    margin-left: 0px;
+}
+
+.slider-nav > .slick-prev::before, .center > .slick-prev::before {
+    line-height: 8;
+    font-size: 30px;
+    margin-left: 60px;
+}
+
+.click > .button-element-3 {
+    font-size: x-large;
+    margin-left: -10px;
+    padding: 10px;
+}
+
+.flex-element-3-right-4 {
+      display: inline;
+}
+
+.flex-element-3-right-5 {
+    min-width: 350px;
+    flex-wrap: wrap;
+}
+
+.flex-element-3-right-6-4 {
+	margin-left: 23%;
+	margin-top: 10px;
+    padding: 15px 0px;
+}
+
+.flex-container-content-5 {
+  height: 1440px;
+}
+
+.flex-container-content-5-c2 {
+ display: none;
+}
+
+.flex-container-content-5-c2-2 {
+ display: block;
+ width: 50%;
+ justify-content: end;
+}
+
+.flex-container-content-5-c3   {
+	display: none;
+}
+
+.flex-container-content-5-c4 {
+	display: none;
+}
+
+.slider-3 > .slick-prev::before, .center > .slick-prev::before {
+    margin-left: 150px;
+}
+
+.flex-container-content-7a {
+	flex-wrap: wrap;	
+}
+
+.flex-element-7 {
+    width: 50%;	
+    height: auto;
+}
+
+.round {
+    transform: rotate(90deg); /* Поворачиваем на 90 градусов/**/
+}
+   
+.flex-element-7 {
+	margin: 35px 1.56%;
+}
+
+.flex-container-content-7b {
+    padding: 157px 0px 0px 78%;
+    display: block;
+}
+
+.flex-element-8t {
+	width: 200px;
+}
+
+.flex-element-footer-logo {
+    margin-right: 0%;
+}
+}
+
+
+@media screen and (max-width: 450px){
+
+.flex-element-3-right-3 {
+    width: 115%;
+}
+
+.slider-2 > .slick-next::before, .center > .slick-next::before {
+    line-height: 5;
+    font-size: 20px;
+    margin-left: -15px;
+}
+
+.slider-2 > .slick-prev::before, .center > .slick-prev::before {
+    font-size: 20px;
+    margin-left: 30px;
+    line-height: 5;
+}
+}
